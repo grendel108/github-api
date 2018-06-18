@@ -53,3 +53,4 @@ let submitButtonElem = document.getElementById("submitButton")
 submitButtonElem.addEventListener("click", requestUserInfo);
 
 
+// 6/17/2018: Added locally.
